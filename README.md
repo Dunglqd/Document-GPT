@@ -1,14 +1,3 @@
-# Azure Hackathon Product
-
-## Introduction
-**IJKL Team - VNU-HCMUIT**  
-| Student ID | Full Name        | Role                              |
-|------------|------------------|-----------------------------------|
-| 21521914   | Dai Nguyen Ba    | Team Lead, Backend Developer, AI Developer |
-| 21521818   | Anh Ho Tan       | Frontend Developer, UX/UI Designer |
-| 21520389   | Phat Phan Ca     | Backend Developer, Tester         |
-| 21522019   | Au Truong Giang  | Frontend Developer, Tester, Business Analyst |
-| 21521978   | Nguyen Tan Dung   | Backend Developer                 |
 
 ## Problem & Idea
 
